@@ -1,0 +1,5 @@
+node{
+    stage('This is my dumy pipeline project'){
+      git 'https://github.com/UmaRaniPanda/TestGit.git'  
+    }
+}
